@@ -1,0 +1,279 @@
+C:\Users\helma\source\repos\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\helma\source\repos\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\helma\source\repos\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.Form2.resources
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.Form3.resources
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.Form4.resources
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\helma\source\repos\Banco\Banco\bin\Debug\Interop.WMPLib.dll
+C:\Users\helma\source\repos\Banco\Banco\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Interop.WMPLib.dll
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.Form5.resources
+C:\Users\helma\source\repos\Banco\Banco\obj\Debug\Banco.Form7.resources
+C:\Users\Estudiantes\Downloads\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Estudiantes\Downloads\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Estudiantes\Downloads\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Estudiantes\Downloads\Banco\Banco\bin\Debug\Interop.WMPLib.dll
+C:\Users\Estudiantes\Downloads\Banco\Banco\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Interop.WMPLib.dll
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.Form2.resources
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.Form3.resources
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.Form4.resources
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.Form5.resources
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.Form6.resources
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.Form7.resources
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\Estudiantes\Downloads\Banco\Banco\obj\Debug\Banco.Form8.resources
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\bin\Debug\Banco.exe.config
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\bin\Debug\Banco.exe
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\bin\Debug\Banco.pdb
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\bin\Debug\Interop.WMPLib.dll
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Interop.WMPLib.dll
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.Form2.resources
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.Form3.resources
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.Form4.resources
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.Form5.resources
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.Form6.resources
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.Form7.resources
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.Form8.resources
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.exe
+C:\Users\Estudiantes\Downloads\BancoFinal\Banco\obj\Debug\Banco.pdb
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\bin\Debug\Banco.exe.config
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\bin\Debug\Banco.exe
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\bin\Debug\Banco.pdb
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\bin\Debug\Interop.WMPLib.dll
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Interop.WMPLib.dll
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.Form2.resources
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.Form3.resources
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.Form4.resources
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.Form5.resources
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.Form6.resources
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.Form7.resources
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.Form8.resources
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.exe
+C:\Users\Estudiantes\Documents\BancoFinal\Banco\obj\Debug\Banco.pdb
+F:\BancoFinal\Banco\bin\Debug\Banco.exe.config
+F:\BancoFinal\Banco\bin\Debug\Banco.exe
+F:\BancoFinal\Banco\bin\Debug\Banco.pdb
+F:\BancoFinal\Banco\bin\Debug\Interop.WMPLib.dll
+F:\BancoFinal\Banco\bin\Debug\AxInterop.WMPLib.dll
+F:\BancoFinal\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+F:\BancoFinal\Banco\obj\Debug\Interop.WMPLib.dll
+F:\BancoFinal\Banco\obj\Debug\AxInterop.WMPLib.dll
+F:\BancoFinal\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+F:\BancoFinal\Banco\obj\Debug\Banco.Form1.resources
+F:\BancoFinal\Banco\obj\Debug\Banco.Form2.resources
+F:\BancoFinal\Banco\obj\Debug\Banco.Form3.resources
+F:\BancoFinal\Banco\obj\Debug\Banco.Form4.resources
+F:\BancoFinal\Banco\obj\Debug\Banco.Form5.resources
+F:\BancoFinal\Banco\obj\Debug\Banco.Form6.resources
+F:\BancoFinal\Banco\obj\Debug\Banco.Form7.resources
+F:\BancoFinal\Banco\obj\Debug\Banco.Form8.resources
+F:\BancoFinal\Banco\obj\Debug\Banco.Properties.Resources.resources
+F:\BancoFinal\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+F:\BancoFinal\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+F:\BancoFinal\Banco\obj\Debug\Banco.exe
+F:\BancoFinal\Banco\obj\Debug\Banco.pdb
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Interop.WMPLib.dll
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.Form2.resources
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.Form3.resources
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.Form4.resources
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.Form5.resources
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.Form6.resources
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.Form7.resources
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.Form8.resources
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.exe
+C:\Users\Estudiantes\Music\BancoFinal\Banco\obj\Debug\Banco.pdb
+D:\BancoFinal\Banco\bin\Debug\Banco.exe.config
+D:\BancoFinal\Banco\bin\Debug\Banco.exe
+D:\BancoFinal\Banco\bin\Debug\Banco.pdb
+D:\BancoFinal\Banco\bin\Debug\Interop.WMPLib.dll
+D:\BancoFinal\Banco\bin\Debug\AxInterop.WMPLib.dll
+D:\BancoFinal\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+D:\BancoFinal\Banco\obj\Debug\Interop.WMPLib.dll
+D:\BancoFinal\Banco\obj\Debug\AxInterop.WMPLib.dll
+D:\BancoFinal\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+D:\BancoFinal\Banco\obj\Debug\Banco.Form1.resources
+D:\BancoFinal\Banco\obj\Debug\Banco.Form2.resources
+D:\BancoFinal\Banco\obj\Debug\Banco.Form3.resources
+D:\BancoFinal\Banco\obj\Debug\Banco.Form4.resources
+D:\BancoFinal\Banco\obj\Debug\Banco.Form5.resources
+D:\BancoFinal\Banco\obj\Debug\Banco.Form6.resources
+D:\BancoFinal\Banco\obj\Debug\Banco.Form7.resources
+D:\BancoFinal\Banco\obj\Debug\Banco.Form8.resources
+D:\BancoFinal\Banco\obj\Debug\Banco.Properties.Resources.resources
+D:\BancoFinal\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+D:\BancoFinal\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+D:\BancoFinal\Banco\obj\Debug\Banco.exe
+D:\BancoFinal\Banco\obj\Debug\Banco.pdb
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\bin\Debug\Banco.exe.config
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\bin\Debug\Banco.exe
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\bin\Debug\Banco.pdb
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\bin\Debug\Interop.WMPLib.dll
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Interop.WMPLib.dll
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form2.resources
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form3.resources
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form4.resources
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form5.resources
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form6.resources
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form7.resources
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form8.resources
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.exe
+C:\Users\Estudiantes\Pictures\BancoFinal\Banco\obj\Debug\Banco.pdb
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\bin\Debug\Banco.exe.config
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\bin\Debug\Banco.exe
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\bin\Debug\Banco.pdb
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\bin\Debug\Interop.WMPLib.dll
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Interop.WMPLib.dll
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form2.resources
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form3.resources
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form4.resources
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form5.resources
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form6.resources
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form7.resources
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.Form8.resources
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.exe
+C:\Users\Labing960Clon\Pictures\BancoFinal\Banco\obj\Debug\Banco.pdb
+G:\BancoFinal\Banco\bin\Debug\Banco.exe.config
+G:\BancoFinal\Banco\bin\Debug\Banco.exe
+G:\BancoFinal\Banco\bin\Debug\Banco.pdb
+G:\BancoFinal\Banco\bin\Debug\Interop.WMPLib.dll
+G:\BancoFinal\Banco\bin\Debug\AxInterop.WMPLib.dll
+G:\BancoFinal\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+G:\BancoFinal\Banco\obj\Debug\Interop.WMPLib.dll
+G:\BancoFinal\Banco\obj\Debug\AxInterop.WMPLib.dll
+G:\BancoFinal\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+G:\BancoFinal\Banco\obj\Debug\Banco.Form1.resources
+G:\BancoFinal\Banco\obj\Debug\Banco.Form2.resources
+G:\BancoFinal\Banco\obj\Debug\Banco.Form3.resources
+G:\BancoFinal\Banco\obj\Debug\Banco.Form4.resources
+G:\BancoFinal\Banco\obj\Debug\Banco.Form5.resources
+G:\BancoFinal\Banco\obj\Debug\Banco.Form6.resources
+G:\BancoFinal\Banco\obj\Debug\Banco.Form7.resources
+G:\BancoFinal\Banco\obj\Debug\Banco.Form8.resources
+G:\BancoFinal\Banco\obj\Debug\Banco.Properties.Resources.resources
+G:\BancoFinal\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+G:\BancoFinal\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+G:\BancoFinal\Banco\obj\Debug\Banco.exe
+G:\BancoFinal\Banco\obj\Debug\Banco.pdb
+E:\BancoFinal\Banco\bin\Debug\Banco.exe.config
+E:\BancoFinal\Banco\bin\Debug\Banco.exe
+E:\BancoFinal\Banco\bin\Debug\Banco.pdb
+E:\BancoFinal\Banco\bin\Debug\Interop.WMPLib.dll
+E:\BancoFinal\Banco\bin\Debug\AxInterop.WMPLib.dll
+E:\BancoFinal\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+E:\BancoFinal\Banco\obj\Debug\Interop.WMPLib.dll
+E:\BancoFinal\Banco\obj\Debug\AxInterop.WMPLib.dll
+E:\BancoFinal\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+E:\BancoFinal\Banco\obj\Debug\Banco.Form1.resources
+E:\BancoFinal\Banco\obj\Debug\Banco.Form2.resources
+E:\BancoFinal\Banco\obj\Debug\Banco.Form3.resources
+E:\BancoFinal\Banco\obj\Debug\Banco.Form4.resources
+E:\BancoFinal\Banco\obj\Debug\Banco.Form5.resources
+E:\BancoFinal\Banco\obj\Debug\Banco.Form6.resources
+E:\BancoFinal\Banco\obj\Debug\Banco.Form7.resources
+E:\BancoFinal\Banco\obj\Debug\Banco.Form8.resources
+E:\BancoFinal\Banco\obj\Debug\Banco.Properties.Resources.resources
+E:\BancoFinal\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+E:\BancoFinal\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+E:\BancoFinal\Banco\obj\Debug\Banco.exe
+E:\BancoFinal\Banco\obj\Debug\Banco.pdb
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\bin\Debug\Banco.exe.config
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\bin\Debug\Banco.exe
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\bin\Debug\Banco.pdb
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\bin\Debug\Interop.WMPLib.dll
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Interop.WMPLib.dll
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.Form2.resources
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.Form3.resources
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.Form4.resources
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.Form5.resources
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.Form6.resources
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.Form7.resources
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.Form8.resources
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.exe
+C:\Users\Stiven\Downloads\BancoFinal 2.0\Banco\obj\Debug\Banco.pdb
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+D:\BancoFinal 2.0\Banco\obj\Debug\Interop.WMPLib.dll
+D:\BancoFinal 2.0\Banco\obj\Debug\AxInterop.WMPLib.dll
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.csproj.ResolveComReference.cache
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.Form1.resources
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.Form2.resources
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.Form3.resources
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.Form4.resources
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.Form5.resources
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.Form6.resources
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.Form7.resources
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.Form8.resources
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.Properties.Resources.resources
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.exe
+D:\BancoFinal 2.0\Banco\obj\Debug\Banco.pdb
+D:\BancoFinal 2.0\Banco\bin\Debug\Banco.exe.config
+D:\BancoFinal 2.0\Banco\bin\Debug\Banco.exe
+D:\BancoFinal 2.0\Banco\bin\Debug\Banco.pdb
+D:\BancoFinal 2.0\Banco\bin\Debug\Interop.WMPLib.dll
+D:\BancoFinal 2.0\Banco\bin\Debug\AxInterop.WMPLib.dll
