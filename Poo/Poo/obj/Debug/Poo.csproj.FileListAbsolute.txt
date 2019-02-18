@@ -1,0 +1,14 @@
+c:\users\stiven\source\repos\Poo\Poo\bin\Debug\Poo.exe.config
+c:\users\stiven\source\repos\Poo\Poo\bin\Debug\Poo.exe
+c:\users\stiven\source\repos\Poo\Poo\bin\Debug\Poo.pdb
+c:\users\stiven\source\repos\Poo\Poo\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\stiven\source\repos\Poo\Poo\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+c:\users\stiven\source\repos\Poo\Poo\obj\Debug\Poo.csprojAssemblyReference.cache
+c:\users\stiven\source\repos\Poo\Poo\obj\Debug\Poo.Form1.resources
+c:\users\stiven\source\repos\Poo\Poo\obj\Debug\Poo.Properties.Resources.resources
+c:\users\stiven\source\repos\Poo\Poo\obj\Debug\Poo.csproj.GenerateResource.cache
+c:\users\stiven\source\repos\Poo\Poo\obj\Debug\Poo.csproj.CoreCompileInputs.cache
+c:\users\stiven\source\repos\Poo\Poo\obj\Debug\Poo.csproj.CopyComplete
+c:\users\stiven\source\repos\Poo\Poo\obj\Debug\Poo.exe
+c:\users\stiven\source\repos\Poo\Poo\obj\Debug\Poo.pdb
+c:\users\stiven\source\repos\Poo\Poo\obj\Debug\Poo.Form2.resources
